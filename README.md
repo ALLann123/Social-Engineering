@@ -55,6 +55,17 @@ Because using python we are reading from a file and this allows us to use email 
 We have plenty of them e.g on the site https://caniphish.com/free-phishing-test/phishing-email-templates
 ![Screenshot 2024-12-27 045425](https://github.com/user-attachments/assets/d5436134-383f-46b5-8367-7cc64d999bbe)
 
+# INBOX OR PROMOTION DELIVERY
+One of the problems I encountered was the email was being delivered inthe promotion box instead of direct into the inbox. Emails landing in the "Promotions" tab instead of the "Primary" inbox is usually due to how email providers classify messages. Gmail and other services often categorize emails based on their content, headers, and metadata.
+Basically all am saying is whatevr is on the subject determines where the email ends up. 
+
+Example of terms that may end up to promotion include:
+
+        Scholarships 2025
+        Last chance: The perfect gift, no shipping required
+        Urgent
+NOTE: Also the emails may take time to deliver as they are queued onthe mail server provided you got a html success response now you wait.
+
 # DISCLAIMER
 USE FOR EDUCATION PURPOSE
 
