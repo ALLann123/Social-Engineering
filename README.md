@@ -21,5 +21,6 @@ You should see something similar to these to get started with the code
     copy the port 587
     copy login, which is your email address
     copy SMTP Key
-After coping the above values replace them in our script
+After coping the above values replace them in our script secure_e_spoof.py
 
+        kali> git clone 
