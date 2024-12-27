@@ -23,4 +23,5 @@ You should see something similar to these to get started with the code
     copy SMTP Key
 After coping the above values replace them in our script secure_e_spoof.py
 
-        kali> git clone 
+        kali> git clone https://github.com/ALLann123/Social-Engineering.git
+        kali> nano 
